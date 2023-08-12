@@ -88,7 +88,8 @@ body {
     width: 400px;
     text-align: left;
     padding: 0;
-    color: #eee;
+    /* color: #eee; */
+    color: #FFFFF0;
     transform: translate(0, -50%);
     display: none;
 
